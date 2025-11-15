@@ -49,26 +49,6 @@ qui combine **analyse métier** et **ingénierie analytique moderne**.
 - Rigueur & organisation  
 - Autonomie, curiosité, sens du problème  
 
----
-
-## 📂 Projets principaux
-
-### 🔥 **1. E-commerce Marketing Analytics — Projet dbt**
-Modélisation complète des données marketing, ventes et finance d’un e-commerce.  
-Construction des couches staging, intermediate et finance,  
-avec documentation, lineage et tests dbt.  
-👉 **Repository : ecommerce-marketing-analytics-dbt**
-
----
-
-### 🌍 **2. Analyse de l’évolution des températures — Projet Python**
-Analyse des tendances de température sur différentes échelles de temps.  
-Exploration des corrélations avec les gaz à effet de serre  
-+ visualisations et régression linéaire.  
-👉 **Repository : climate-temperature-trends-analysis**
-
----
-
 ## 📬 Me contacter
 
 - GitHub : **@Azuriee**
