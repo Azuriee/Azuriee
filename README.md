@@ -1,6 +1,7 @@
-<h1 align="center">👋 Bonjour, je suis Alexandra</h1>
-<h3 align="center">Data Analyst (Modern Data Stack) · Orientation Analytics Engineering</h3>
+# 👋 Bonjour, je suis **Alexandra**
 
+## **Analytics Engineer / Data Analyst**  
+### **Modern Data Stack — SQL · dbt · BigQuery · Python**
 <p align="center">
   <img src="https://img.shields.io/badge/Rôle-Data%20Analyst-blue" />
   <img src="https://img.shields.io/badge/Stack-Modern%20Data%20Stack-orange" />
@@ -12,49 +13,69 @@
 
 ## 🚀 À propos
 
-Je suis **Data Analyst**, avec un fort intérêt pour la **Modern Data Stack**  
-et les pratiques d’**Analytics Engineering**.
+Je suis **Analytics Engineer / Data Analyst**, spécialisée dans la **Modern Data Stack**.  
+J’aide les équipes à transformer leurs données en **modèles fiables**, pipelines automatisés et analyses actionnables.
 
-J’aime transformer des données brutes en insights clairs, en modèles fiables,  
-et en jeux de données directement actionnables par les équipes métier.
+Je travaille au croisement de :
 
-Je travaille à la frontière entre :
+- **Engineering** → pipelines Python, ELT, automatisation  
+- **Modélisation analytique** → dbt, tests, documentation, data marts  
+- **Data warehousing** → BigQuery, Snowflake  
+- **Analytics** → SQL avancé, visualisation, ML supervisé (scikit-learn)
 
-- 🔹 **Analyse de données** (SQL, Python, visualisation)
-- 🔹 **Modélisation et qualité des données** (dbt, tests, documentation)
-- 🔹 **Data Warehousing** (BigQuery,Snowflake)
-- 🔹 **Marketing, ventes et performance financière**
-
-Actuellement en formation intensive au Wagon, je développe un portfolio technique  
-qui combine **analyse métier** et **ingénierie analytique moderne**.
+J’aime organiser la donnée, améliorer sa qualité, documenter clairement, créer des datasets stables et rendre la data accessible aux équipes métier.
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠️ Compétences
 
-### **Analyse de données**
-- SQL Avancé : CTEs, Window Functions, modélisation analytique  
-- Python : pandas, plotly, scikit-learn & more
-- Dataviz : Looker Studio, Power BI  
-- Analyses business (marketing, sales, finance) & sociétales
+### 🔧 Analytics Engineering
+- dbt (modèles staging → intermediate → marts)  
+- Tests, documentation, sources, exposures  
+- Data modeling (star schema, Kimball-light)  
+- Data lineage & data governance  
+- ELT (Modern Data Stack)
 
-### **Analytics Engineering**
-- dbt (staging → intermediate → marts, tests, documentation)  
-- BigQuery / Snowflake
-- Concepts ELT / Modern Data Stack  
-- Data quality, documentation, lineage
+---
 
-### **Soft Skills**
-- Vulgarisation & communication  
-- Rigueur & organisation  
-- Autonomie, curiosité, sens du problème  
+### 🗄️ Data Engineering / Warehousing
+- BigQuery  
+- Snowflake  
+- Pipelines Python (ingestion, transformation, automatisation)  
+- API, orchestration légère  
+- Airflow (bases)
+
+---
+
+### 📊 Data Analysis & BI
+- SQL avancé (CTE, window functions, optimisation)  
+- Python : pandas, nettoyage, exploration  
+- Visualisation Python : **Plotly**, **Matplotlib**  
+- BI : Looker Studio, Power BI, Tableau (en cours)  
+- Analyse marketing, sales, finance, customer success
+
+---
+
+### 🤖 Machine Learning (niveau analyste / AE)
+- scikit-learn : régression, classification, preprocessing  
+- Feature engineering  
+- Évaluation : train/test, métriques, cross-validation  
+
+---
+
+### 🌿 Soft Skills
+- Communication & vulgarisation  
+- Rigueur, structuration, documentation  
+- Autonomie, curiosité, adaptabilité
+
+---
 
 ## 📬 Me contacter
-
-- GitHub : **@Azuriee**
+- GitHub : **@Azuriee**  
+- LinkedIn : *(à ajouter)*  
+- Email : *(optionnel)*  
 
 ---
 
-<p align="center">
-  ✨ *Data Analyst orientée Modern Data Stack — toujours en apprentissage.* ✨
-</p>
+✨ *Analytics Engineer / Data Analyst — Modern Data Stack (SQL, dbt, BigQuery, python).* ✨
+
