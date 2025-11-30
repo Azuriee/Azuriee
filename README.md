@@ -2,8 +2,7 @@
 
 # 👋 Bonjour, je suis **Alexandra**
 
-## Analytics Engineer / Data Analyst  
-### Modern Data Stack — SQL · dbt · BigQuery · Python
+## Analytics Engineer / Data Analyst (Modern data stack)
 
 </div>
 
