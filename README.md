@@ -124,8 +124,6 @@ J’aime organiser la donnée, améliorer sa qualité, documenter clairement, cr
 
 ## 📬 Me contacter
 - GitHub : **@Azuriee**  
-- LinkedIn : *(à ajouter)*  
-- Email : *(optionnel)*  
 
 ---
 
