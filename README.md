@@ -1,7 +1,12 @@
+<div align="center">
+
 # 👋 Bonjour, je suis **Alexandra**
 
-## **Analytics Engineer / Data Analyst**  
-### **Modern Data Stack — SQL · dbt · BigQuery · Python**
+## Analytics Engineer / Data Analyst  
+### Modern Data Stack — SQL · dbt · BigQuery · Python
+
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Rôle-Data%20Analyst-blue" />
   <img src="https://img.shields.io/badge/Stack-Modern%20Data%20Stack-orange" />
