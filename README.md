@@ -15,8 +15,8 @@ Je travaille au croisement de :
 
 - **Engineering** → pipelines Python, ELT, automatisation  
 - **Modélisation analytique** → dbt, tests, documentation, data marts  
-- **Data warehousing** → BigQuery, Snowflake  
-- **Analytics** → SQL avancé, visualisation, ML supervisé (scikit-learn)
+- **Data warehousing** → BigQuery, Databricks, Snowflake  
+- **Analytics** → SQL, Python & DAX, visualisation (Tableau, Power BI, Looker), ML supervisé (scikit-learn,pandas)
 
 J’aime organiser la donnée, améliorer sa qualité, documenter clairement, créer des datasets stables et rendre la data accessible aux équipes métier.
 
