@@ -103,7 +103,7 @@ J’aime organiser la donnée, améliorer sa qualité, documenter clairement, cr
 - SQL avancé (CTE, window functions, optimisation)  
 - Python : pandas, nettoyage, exploration  
 - Visualisation Python : **Plotly**, **Matplotlib**  
-- BI : Looker Studio, Power BI, Tableau (en cours)  
+- BI : Looker, Power BI, Tableau  
 - Analyse marketing, sales, finance, customer success
 
 ---
